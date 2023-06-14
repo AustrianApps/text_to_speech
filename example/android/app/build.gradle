@@ -48,6 +48,7 @@ android {
             signingConfig signingConfigs.debug
         }
     }
+    namespace 'com.ixsans.text_to_speech_example'
 }
 
 flutter {
